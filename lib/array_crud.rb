@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  famous_bands = [Smiths, Beatles]
+  famous_bands = ["Smiths", "Beatles"]
   famous_bands << 
   
 end
