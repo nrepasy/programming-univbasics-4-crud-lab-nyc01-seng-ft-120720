@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   famous_bands = ["Smiths", "Beatles" , "arrays!"]
-  "arrays!" = famous_bands.pop
+  arrays = famous_bands.pop
 end
 
 def remove_element_from_start_of_array(array)
