@@ -27,6 +27,7 @@ end
 def remove_element_from_start_of_array(array)
   famous_band = ["wow", "wee"]
   lil_bub = famous_band.shift
+  p lil_bub
 end
 
 def retrieve_element_from_index(array, index_number)
