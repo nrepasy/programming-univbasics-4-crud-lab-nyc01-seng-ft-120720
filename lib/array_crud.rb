@@ -47,4 +47,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 famous_bands = ["Smiths", "Beatles" , "arrays!"]
+famous_bands[2] = "totally"
 end
